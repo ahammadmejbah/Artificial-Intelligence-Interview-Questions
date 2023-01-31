@@ -162,4 +162,4 @@ To perform this search we need to follow steps. As it performs the DFS starting 
 There can be multiple long paths with the cost ≤ C*. Uniform Cost search must explore them all 
 
 
-***Credit***: <a href="">OMNI ACADEMY</a>
+***Credit***: <a href="#">OMNI ACADEMY</a>
