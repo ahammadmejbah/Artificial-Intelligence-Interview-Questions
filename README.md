@@ -121,20 +121,16 @@ A finger on the pulse Maybe the time is going on it’s not right for your busin
 4. Paradigm of Artificial Intelligence Programming- Another one by Peter Norvig! This book will help you to understand the advanced common lisp techniques to build major A.I systems. It is all about practical aspects. Also, it teaches readers the method to build and debug robust practical programs. Moreover, It gives better understanding superior programming style and essential AI concepts. Further, if you are serious about a career, this book is best for you. 
 
   
-
 <b><h4><code>Q.22. What is Single Agent Pathfinding Problems? </code></h4></b>
 
 There are different types of games. Such as 3X3 eight-tile, 4X4 fifteen-tilepuzzles are single-agent-path-finding challenges. As they are consisting of a matrix of tiles with a blank tile. Thus, to arrange the tiles by sliding a tile either vertically or horizontally into a blank space. Also, with the aim of accomplishing some objective. 
 
 <b><h4><code>Q.23. Name search algorithm technology? </code></h4></b>
 
-Problem Space Basically, it is the environment in which the search takes place. (A set of states and set of operators to change those states) 
-
-Problem Instance It is a result of Initial state + Goal state. 
-
-Problem Space Graph We use it to represent problem state. Also, we use nodes to show states. 
-
-The depth of a problem We can define a length of the shortest path. 
+1. Problem Space Basically, it is the environment in which the search takes place. (A set of states and set of operators to change those states)
+2. Problem Instance It is a result of Initial state + Goal state.
+3. Problem Space Graph We use it to represent problem state. Also, we use nodes to show states.
+4. The depth of a problem We can define a length of the shortest path. 
 
 <b><h4><code>Q.24. What Brute-Force Search Strategies? </code></h4></b>
 
@@ -151,21 +147,21 @@ This strategy doesn’t require any domain-specific knowledge. Thus it’s so si
 Basically, we have to start searching for the root node. And continue through neighboring nodes first. Further, moves towards next level of nodes. Moreover, till the solution is found, generates one tree at a time. As this search can be implemented using FIFO queue data structure. This method provides the shortest path to the solution. FIFO(First in First Out). If the branching factor (average number of child nodes for a given node) = b and depth = d, the number of nodes at level d = bd. The total no of nodes created in worst case is b + b2 + b3 + … + bd. 
 
 <b><h4><code>Q.26. What is Depth-First Search Algorithm? </code></h4></b>
-
 It is based on the concept of LIFO. As it stands for Last In First Out. Also, implemented in recursion with LIFO stack data structure. Thus, It used to create the same set of nodes as the Breadth-First method, only in the different order. As the path is been stored in each iteration from root to leaf node. Thus, store nodes are linear with space requirement. With branching factor b and depth as m, the storage space is bm. 
 
 <b><h4><code>Q.27 What is Bidirectional Search Algorithm? </code></h4></b>
-
 Basically, starts searches forward from an initial state and backward from goal state. As till both meets to identify a common state. Moreover, initial state path is concatenated with the goal state inverse path. Each search is done only up to half of the total path. 
 
 <b><h4><code>Q.28. What is the Uniform Cost Search Algorithm? </code></h4></b>
-
 Basically, it performs sorting in increasing the cost of the path to a node. Also, always expands the least cost node. Although, it is identical to Breadth-First search if each transition has the same cost. It explores paths in the increasing order of cost. 
 
 <b><h4><code>Q.29. What is Iterative Deepening Depth-First Search Algorithm? </code></h4></b>
-
 To perform this search we need to follow steps. As it performs the DFS starting to level 1, starts and then executes a complete depth-first search to level 2. Moreover, we have to continue searching process till we find the solution. We have to generate nodes till single nodes are created. Also, it saves only stack of nodes. As soon as he finds a solution at depth d, the algorithm ends, The number of nodes created at depth d is bd and at depth d-1 is bd-1. 
 
 <b><h4><code>Q.30. What are disadvantages Uniform Cost Search Algorithm? </code></h4></b>
-
 There can be multiple long paths with the cost ≤ C*. Uniform Cost search must explore them all 
+
+
+```
+```
+***Credit***: <a href="">OMNI ACADEMY</a>
