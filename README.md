@@ -1,4 +1,3 @@
-### <p align="center">Artificial-Intilligence-Interview-Questions</p>
 ![image](https://user-images.githubusercontent.com/56669333/215713789-0732f830-aadc-4861-8dae-a3aea00e5eeb.png)
 
 
