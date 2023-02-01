@@ -2,7 +2,7 @@
 
 
 <b><h4><code>Q.1. Explain in brief Artificial Intelligence? </code></h4></b>
-According to the father of Artificial Intelligence, John McCarthy, it is “The science and engineering of making intelligent machines, especially intelligent computer programs”. Also, intelligence distinguish us from everything in the world. As it has the ability to understand, apply knowledge. Also, improve skills that played a significant role in our evolution. We can define AI as the area of computer science. Further, they deal with the ways in which computers can be made. As they made to perform cognitive functions ascribed to humans. 
+According to the father of Artificial Intelligence, Johns McCarthy, it is “The science and engineering of making intelligent machines, especially intelligent computer programs”. Also, intelligence distinguish us from everything in the world. As it has the ability to understand, apply knowledge. Also, improve skills that played a significant role in our evolution. We can define AI as the area of computer science. Further, they deal with the ways in which computers can be made. As they made to perform cognitive functions ascribed to humans. 
 
 <b><h4><code>Q.2. Which domain study Artificial Included? </code></h4></b>
 1. Computer Science
