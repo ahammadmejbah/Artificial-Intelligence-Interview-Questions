@@ -12,7 +12,7 @@ According to the father of Artificial Intelligence, Johns McCarthy, it is “The
 5. Linguistics
 6. Logic
 7. Mathematics
-8. Natural Sciences
+8. Natural Science
 9. Philosophy
 10. Physiology
 11. Psychology
